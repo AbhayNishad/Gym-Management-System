@@ -3,5 +3,4 @@ A fully functional project based on Gym Management System Project which uses PHP
 
 
 
-Admin username : admin
-Admin Password : 123
+
